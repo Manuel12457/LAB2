@@ -3,7 +3,6 @@ package com.example.lab2.Controllers;
 
 
 import com.example.lab2.Entity.Sedes;
-import com.example.lab2.repository.SedesRepository;
 import com.example.lab2.repository.TrabajadoresRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
