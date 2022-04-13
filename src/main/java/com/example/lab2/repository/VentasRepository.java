@@ -1,4 +1,4 @@
 package com.example.lab2.repository;
 
-public interface ventasRepository {
+public interface VentasRepository {
 }
