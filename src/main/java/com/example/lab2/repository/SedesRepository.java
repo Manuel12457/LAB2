@@ -7,5 +7,5 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 @Repository
-public interface sedesRepository extends JpaRepository<Sedes,Integer> {
+public interface SedesRepository extends JpaRepository<Sedes,Integer> {
 }

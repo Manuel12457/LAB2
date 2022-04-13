@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 @Repository
-public interface inventarioRepository extends JpaRepository<Inventario,Integer> {
+public interface InventarioRepository extends JpaRepository<Inventario,Integer> {
 }
 
 

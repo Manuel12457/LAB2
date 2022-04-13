@@ -7,5 +7,5 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 @Repository
-public interface marcasRepository extends JpaRepository<Marcas,Integer> {
+public interface MarcasRepository extends JpaRepository<Marcas,Integer> {
 }
